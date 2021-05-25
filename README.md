@@ -1,9 +1,9 @@
-## Dev Connector
+# Dev Connector
 ![alt text](main.png)
 
 Check out Live Site at https://radiant-springs-04144.herokuapp.com/
 
-# Full stack social network application using Node.js, Express, React, Redux and MongoDB
+## Full stack social network application using Node.js, Express, React, Redux and MongoDB
 
 ## Tech Used
 - Node.js & Express
