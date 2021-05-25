@@ -1,5 +1,8 @@
 # Dev Connector
 ![alt text](main.png)
+![alt text](main2.png)
+![alt text](main3.png)
+![alt text](main4.png)
 
 Check out Live Site at https://radiant-springs-04144.herokuapp.com/
 
