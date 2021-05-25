@@ -14,13 +14,12 @@ Check out Live Site at https://radiant-springs-04144.herokuapp.com/
 - GitHub API
 
 
-## What I learned on this project
-- Building an extensive backend API with Node.js & Express
-- Protecting routes/endpoints with JWT (JSON Web Tokens)
-- Extensive API testing with Postman
-- Integrating React with our backend in an elegant way, creating a great workflow
-- Building our frontend to work with the API
-- Using Redux for app state management
-- Creating reducers and actions for our resources
-- Creating many container components that integrate with Redux
-- Testing with the Redux Chrome extension
+## Key Takeaways
+- backend API with Node.js & Express
+- protected routes/endpoints with JWT (JSON Web Tokens)
+- performed API testing with Postman
+- integrated React with the backend
+- built a frontend to work with the API
+- Redux for app state management
+- reducers and actions for our resources
+- container components that integrated with Redux
